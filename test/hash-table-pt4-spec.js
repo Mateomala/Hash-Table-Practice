@@ -39,4 +39,3 @@ describe('Hash table insert with collisions', () => {
   });
 
 });
-
